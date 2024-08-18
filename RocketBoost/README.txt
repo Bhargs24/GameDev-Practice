@@ -1,2 +1,2 @@
-This is my unity game dev project!
+This is my first unity game dev project!
 
